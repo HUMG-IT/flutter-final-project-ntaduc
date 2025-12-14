@@ -1,6 +1,6 @@
 {
-    "name": "flutter_project",
-    "short_name": "flutter_project",
+    "name": "calendar_note_app",
+    "short_name": "calendar_note_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
